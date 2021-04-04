@@ -1,8 +1,6 @@
-# Algorithms
+# Algorithms and Data Structures
 
-Here you will find notable algorithms in computer science.
-
-All but decimal-to-binary.js feature full explanations of the algorithm and code.
+Here you will find notable algorithms and data structures in computer science.
 
 While this repository is fairly lightweight, in my [Codewars repository](https://github.com/malachispencer/codewars) you can find many more algorithms used directly to solve Codewars kata.
 
